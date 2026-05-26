@@ -22,7 +22,7 @@
     "price": 2800,
     "inStock": true,
     "totalStock": 5,
-    "slug": "curaprox-kéttónusú-plakkfestő-tabletta-12-db-os"
+    "slug": "curaprox-kettonusu-plakkfesto-tabletta-12-db-os"
   },
   {
     "id": "2.0",
@@ -47,7 +47,7 @@
     "price": 4990,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curasept-ads-350-klórhexidin-tartalmú-parodontális-gél-0-5-chx-30ml"
+    "slug": "curasept-ads-350-klorhexidin-tartalmu-parodontalis-gel-0-5-chx-30ml"
   },
   {
     "id": "3.0",
@@ -72,7 +72,7 @@
     "price": 3600,
     "inStock": true,
     "totalStock": 3,
-    "slug": "curasept-afterapid-protektív-gél-10-ml"
+    "slug": "curasept-afterapid-protektiv-gel-10-ml"
   },
   {
     "id": "4.0",
@@ -97,7 +97,7 @@
     "price": 6000,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curasept-biosmalto-mousse-pro-otthoni-kék-fogszuvasodásra-50ml"
+    "slug": "curasept-biosmalto-mousse-pro-otthoni-kek-fogszuvasodasra-50ml"
   },
   {
     "id": "5.0",
@@ -122,7 +122,7 @@
     "price": 6000,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curasept-biosmalto-mousse-pro-otthoni-rózsaszín-érzékeny-fogakra-50ml"
+    "slug": "curasept-biosmalto-mousse-pro-otthoni-rozsaszin-erzekeny-fogakra-50ml"
   },
   {
     "id": "6.0",
@@ -172,7 +172,7 @@
     "price": 10100,
     "inStock": true,
     "totalStock": 8,
-    "slug": "gc-tooth-mousse-fogzománcvédő-krém"
+    "slug": "gc-tooth-mousse-fogzomancvedo-krem"
   },
   {
     "id": "8.0",
@@ -197,7 +197,7 @@
     "price": 3490,
     "inStock": true,
     "totalStock": 5,
-    "slug": "gengigel-first-aid-öblögető-oldat-50ml"
+    "slug": "gengigel-first-aid-oblogeto-oldat-50ml"
   },
   {
     "id": "9.0",
@@ -222,7 +222,7 @@
     "price": 4400,
     "inStock": true,
     "totalStock": 4,
-    "slug": "gengigel-gél-az-első-fogaktól-20-ml"
+    "slug": "gengigel-gel-az-elso-fogaktol-20-ml"
   },
   {
     "id": "10.0",
@@ -247,7 +247,7 @@
     "price": 4800,
     "inStock": true,
     "totalStock": 6,
-    "slug": "gengigel-gél-20-ml"
+    "slug": "gengigel-gel-20-ml"
   },
   {
     "id": "11.0",
@@ -272,7 +272,7 @@
     "price": 35850,
     "inStock": true,
     "totalStock": 1,
-    "slug": "oral-b-io-kids-disney-stitch-6-éves-kortól"
+    "slug": "oral-b-io-kids-disney-stitch-6-eves-kortol"
   },
   {
     "id": "12.0",
@@ -472,7 +472,7 @@
     "price": 4600,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-be-you-kék-fogkrém-60-ml-szeder-édesgyökér"
+    "slug": "curaprox-be-you-kek-fogkrem-60-ml-szeder-edesgyoker"
   },
   {
     "id": "20.0",
@@ -722,7 +722,7 @@
     "price": 6400,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curaprox-cs-5460-utazó-szett-fogkefe-pótfej-2db"
+    "slug": "curaprox-cs-5460-utazo-szett-fogkefe-potfej-2db"
   },
   {
     "id": "30.0",
@@ -847,7 +847,7 @@
     "price": 1400,
     "inStock": true,
     "totalStock": 43,
-    "slug": "curaprox-single-1006-egycsomós-fogkefe"
+    "slug": "curaprox-single-1006-egycsomos-fogkefe"
   },
   {
     "id": "35.0",
@@ -872,7 +872,7 @@
     "price": 2450,
     "inStock": true,
     "totalStock": 6,
-    "slug": "curaprox-single-1009-egycsomós-fogkefe"
+    "slug": "curaprox-single-1009-egycsomos-fogkefe"
   },
   {
     "id": "36.0",
@@ -947,7 +947,7 @@
     "price": 2700,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-surgical-cs-mega-soft-szájsebészeti-fogkefe"
+    "slug": "curaprox-surgical-cs-mega-soft-szajsebeszeti-fogkefe"
   },
   {
     "id": "39.0",
@@ -972,7 +972,7 @@
     "price": 3950,
     "inStock": true,
     "totalStock": 11,
-    "slug": "curaprox-travel-set-utazó-szett"
+    "slug": "curaprox-travel-set-utazo-szett"
   },
   {
     "id": "40.0",
@@ -1022,7 +1022,7 @@
     "price": 1990,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curaprox-cps-011-prime-start-világoszöld-fogköztisztító-kefe-5db-kétféle-tartóny"
+    "slug": "curaprox-cps-011-prime-start-vilagoszold-fogkoztisztito-kefe-5db-ketfele-tartony"
   },
   {
     "id": "42.0",
@@ -1047,7 +1047,7 @@
     "price": 4000,
     "inStock": true,
     "totalStock": 5,
-    "slug": "curaprox-cps-011-prime-világoszöld-fogköztisztító-kefe-utántöltő-8-db"
+    "slug": "curaprox-cps-011-prime-vilagoszold-fogkoztisztito-kefe-utantolto-8-db"
   },
   {
     "id": "43.0",
@@ -1072,7 +1072,7 @@
     "price": 3400,
     "inStock": true,
     "totalStock": 5,
-    "slug": "curaprox-cps-06-prime-start-citromsárga-fogköztisztító-kefe-5db-kétféle-tartónyé"
+    "slug": "curaprox-cps-06-prime-start-citromsarga-fogkoztisztito-kefe-5db-ketfele-tartonye"
   },
   {
     "id": "44.0",
@@ -1097,7 +1097,7 @@
     "price": 3450,
     "inStock": true,
     "totalStock": 10,
-    "slug": "curaprox-cps-06-prime-start-türkiz-fogköztisztító-kefe-5db-kétféle-tartónyél"
+    "slug": "curaprox-cps-06-prime-start-turkiz-fogkoztisztito-kefe-5db-ketfele-tartonyel"
   },
   {
     "id": "45.0",
@@ -1122,7 +1122,7 @@
     "price": 3300,
     "inStock": true,
     "totalStock": 7,
-    "slug": "curaprox-cps-07-prime-start-piros-fogköztisztító-kefe-5db-kétféle-tartónyél"
+    "slug": "curaprox-cps-07-prime-start-piros-fogkoztisztito-kefe-5db-ketfele-tartonyel"
   },
   {
     "id": "46.0",
@@ -1147,7 +1147,7 @@
     "price": 3400,
     "inStock": true,
     "totalStock": 5,
-    "slug": "curaprox-cps-08-prime-start-rózsaszín-fogköztisztító-kefe-5db-kétféle-tartónyél"
+    "slug": "curaprox-cps-08-prime-start-rozsaszin-fogkoztisztito-kefe-5db-ketfele-tartonyel"
   },
   {
     "id": "47.0",
@@ -1172,7 +1172,7 @@
     "price": 3300,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-cps-14-ortho-narancssárga-kúpos-fogköztisztító-kefe-utántöltő-4-db"
+    "slug": "curaprox-cps-14-ortho-narancssarga-kupos-fogkoztisztito-kefe-utantolto-4-db"
   },
   {
     "id": "48.0",
@@ -1197,7 +1197,7 @@
     "price": 4200,
     "inStock": true,
     "totalStock": 4,
-    "slug": "curaprox-cps-405-perio-plus-fogköztisztító-kefe-tartónyéllel"
+    "slug": "curaprox-cps-405-perio-plus-fogkoztisztito-kefe-tartonyellel"
   },
   {
     "id": "49.0",
@@ -1222,7 +1222,7 @@
     "price": 2900,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curaprox-cps-405-perio-refill-piros-fogköztisztító-kefe-utántöltő-4-db"
+    "slug": "curaprox-cps-405-perio-refill-piros-fogkoztisztito-kefe-utantolto-4-db"
   },
   {
     "id": "50.0",
@@ -1247,7 +1247,7 @@
     "price": 3900,
     "inStock": true,
     "totalStock": 3,
-    "slug": "curaprox-cps-406-perio-plus-világoslila-fogköztisztító-kefe-5-db-tartónyéllel"
+    "slug": "curaprox-cps-406-perio-plus-vilagoslila-fogkoztisztito-kefe-5-db-tartonyellel"
   },
   {
     "id": "51.0",
@@ -1272,7 +1272,7 @@
     "price": 3000,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curaprox-cps-406-perio-világoslila-fogköztisztító-kefe-utántöltő-5-db"
+    "slug": "curaprox-cps-406-perio-vilagoslila-fogkoztisztito-kefe-utantolto-5-db"
   },
   {
     "id": "52.0",
@@ -1297,7 +1297,7 @@
     "price": 2400,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curaprox-ctc-203-nyelvtisztító-2-db"
+    "slug": "curaprox-ctc-203-nyelvtisztito-2-db"
   },
   {
     "id": "53.0",
@@ -1322,7 +1322,7 @@
     "price": 6400,
     "inStock": true,
     "totalStock": 4,
-    "slug": "curaprox-ortho-utazó-szett-fogszabályozóhoz"
+    "slug": "curaprox-ortho-utazo-szett-fogszabalyozohoz"
   },
   {
     "id": "54.0",
@@ -1372,7 +1372,7 @@
     "price": 2150,
     "inStock": true,
     "totalStock": 4,
-    "slug": "tepe-angle-citromsárga-0-7-mm"
+    "slug": "tepe-angle-citromsarga-0-7-mm"
   },
   {
     "id": "56.0",
@@ -1397,7 +1397,7 @@
     "price": 2050,
     "inStock": true,
     "totalStock": 4,
-    "slug": "tepe-angle-kék-0-6-mm"
+    "slug": "tepe-angle-kek-0-6-mm"
   },
   {
     "id": "57.0",
@@ -1422,7 +1422,7 @@
     "price": 2600,
     "inStock": true,
     "totalStock": 5,
-    "slug": "tepe-angle-narancssárga-0-45-mm"
+    "slug": "tepe-angle-narancssarga-0-45-mm"
   },
   {
     "id": "58.0",
@@ -1472,7 +1472,7 @@
     "price": 2050,
     "inStock": true,
     "totalStock": 2,
-    "slug": "tepe-angle-rózsaszín-0-4-mm"
+    "slug": "tepe-angle-rozsaszin-0-4-mm"
   },
   {
     "id": "60.0",
@@ -1497,7 +1497,7 @@
     "price": 2150,
     "inStock": true,
     "totalStock": 4,
-    "slug": "tepe-angle-zöld-0-8-mm"
+    "slug": "tepe-angle-zold-0-8-mm"
   },
   {
     "id": "61.0",
@@ -1547,7 +1547,7 @@
     "price": 2000,
     "inStock": true,
     "totalStock": 4,
-    "slug": "tepe-interdental-original-narancssárga-0-45-mm-8-db"
+    "slug": "tepe-interdental-original-narancssarga-0-45-mm-8-db"
   },
   {
     "id": "63.0",
@@ -1597,7 +1597,7 @@
     "price": 2600,
     "inStock": true,
     "totalStock": 6,
-    "slug": "tepe-interdental-original-rózsaszín-0-4-mm-8-db"
+    "slug": "tepe-interdental-original-rozsaszin-0-4-mm-8-db"
   },
   {
     "id": "65.0",
@@ -1622,7 +1622,7 @@
     "price": 2500,
     "inStock": true,
     "totalStock": 3,
-    "slug": "tepe-interdental-original-sárga-0-7-mm-8-db"
+    "slug": "tepe-interdental-original-sarga-0-7-mm-8-db"
   },
   {
     "id": "66.0",
@@ -1647,7 +1647,7 @@
     "price": 2500,
     "inStock": true,
     "totalStock": 4,
-    "slug": "tepe-interdental-original-világoskék-0-6-mm-8-db"
+    "slug": "tepe-interdental-original-vilagoskek-0-6-mm-8-db"
   },
   {
     "id": "67.0",
@@ -1672,7 +1672,7 @@
     "price": 2550,
     "inStock": true,
     "totalStock": 3,
-    "slug": "tepe-interdental-original-zöld-0-8-mm-8-db"
+    "slug": "tepe-interdental-original-zold-0-8-mm-8-db"
   },
   {
     "id": "68.0",
@@ -1697,7 +1697,7 @@
     "price": 4650,
     "inStock": true,
     "totalStock": 3,
-    "slug": "curaprox-be-you-citromsárga-fogkrém-60-ml-grapefruit-bergamot"
+    "slug": "curaprox-be-you-citromsarga-fogkrem-60-ml-grapefruit-bergamot"
   },
   {
     "id": "69.0",
@@ -1722,7 +1722,7 @@
     "price": 2890,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curaprox-be-you-fogkrém-szett-6-db-os-kiszerelés-fogkefe"
+    "slug": "curaprox-be-you-fogkrem-szett-6-db-os-kiszereles-fogkefe"
   },
   {
     "id": "70.0",
@@ -1747,7 +1747,7 @@
     "price": 4550,
     "inStock": true,
     "totalStock": 3,
-    "slug": "curaprox-be-you-narancssárga-fogkrém-60-ml-őszibarack-sárgabarack"
+    "slug": "curaprox-be-you-narancssarga-fogkrem-60-ml-oszibarack-sargabarack"
   },
   {
     "id": "71.0",
@@ -1772,7 +1772,7 @@
     "price": 4350,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-be-you-piros-fogkrém-60-ml-gin-tonic-datolyaszilva"
+    "slug": "curaprox-be-you-piros-fogkrem-60-ml-gin-tonic-datolyaszilva"
   },
   {
     "id": "72.0",
@@ -1797,7 +1797,7 @@
     "price": 4500,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-be-you-rózsaszín-fogkrém-60-ml-görögdinnye"
+    "slug": "curaprox-be-you-rozsaszin-fogkrem-60-ml-gorogdinnye"
   },
   {
     "id": "73.0",
@@ -1822,7 +1822,7 @@
     "price": 4600,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-be-you-zöld-fogkrém-60-ml-alma-aloe"
+    "slug": "curaprox-be-you-zold-fogkrem-60-ml-alma-aloe"
   },
   {
     "id": "74.0",
@@ -1847,7 +1847,7 @@
     "price": 2890,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curaprox-black-is-white-fogkrém-90-ml"
+    "slug": "curaprox-black-is-white-fogkrem-90-ml"
   },
   {
     "id": "75.0",
@@ -1872,7 +1872,7 @@
     "price": 2700,
     "inStock": true,
     "totalStock": 7,
-    "slug": "curaprox-kids-gyerek-fogkrém-eper-ízű-950-ppm-fluoriddal"
+    "slug": "curaprox-kids-gyerek-fogkrem-eper-izu-950-ppm-fluoriddal"
   },
   {
     "id": "76.0",
@@ -1897,7 +1897,7 @@
     "price": 2900,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-kids-gyerek-fogkrém-eper-ízű-fluoridmentes"
+    "slug": "curaprox-kids-gyerek-fogkrem-eper-izu-fluoridmentes"
   },
   {
     "id": "77.0",
@@ -1922,7 +1922,7 @@
     "price": 2750,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curaprox-kids-gyerek-fogkrém-görögdinnye-ízű-1450-ppm-fluoriddal"
+    "slug": "curaprox-kids-gyerek-fogkrem-gorogdinnye-izu-1450-ppm-fluoriddal"
   },
   {
     "id": "78.0",
@@ -1947,7 +1947,7 @@
     "price": 2890,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curaprox-kids-gyerek-fogkrém-mentol-ízű-1450-ppm-fluoriddal"
+    "slug": "curaprox-kids-gyerek-fogkrem-mentol-izu-1450-ppm-fluoriddal"
   },
   {
     "id": "79.0",
@@ -1972,7 +1972,7 @@
     "price": 3750,
     "inStock": true,
     "totalStock": 6,
-    "slug": "curasept-ads-705-klórhexidin-tartalmú-fogkrém-gél-0-05-chx-75-ml"
+    "slug": "curasept-ads-705-klorhexidin-tartalmu-fogkrem-gel-0-05-chx-75-ml"
   },
   {
     "id": "80.0",
@@ -1997,7 +1997,7 @@
     "price": 2890,
     "inStock": false,
     "totalStock": 0,
-    "slug": "curasept-biosmalto-fogkrém-érzékeny-fogakra-75-ml"
+    "slug": "curasept-biosmalto-fogkrem-erzekeny-fogakra-75-ml"
   },
   {
     "id": "81.0",
@@ -2022,7 +2022,7 @@
     "price": 3200,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curasept-biosmalto-junior-fogkrém-75ml"
+    "slug": "curasept-biosmalto-junior-fogkrem-75ml"
   },
   {
     "id": "82.0",
@@ -2047,7 +2047,7 @@
     "price": 1490,
     "inStock": true,
     "totalStock": 5,
-    "slug": "curaprox-df-846-fogselyem-implantátumokhoz-30-db"
+    "slug": "curaprox-df-846-fogselyem-implantatumokhoz-30-db"
   },
   {
     "id": "83.0",
@@ -2122,7 +2122,7 @@
     "price": 5500,
     "inStock": true,
     "totalStock": 2,
-    "slug": "curasept-ads-implant-szájöblögető"
+    "slug": "curasept-ads-implant-szajoblogeto"
   },
   {
     "id": "86.0",
@@ -2147,7 +2147,7 @@
     "price": 5050,
     "inStock": true,
     "totalStock": 1,
-    "slug": "curasept-ads-perio-szájöblögető"
+    "slug": "curasept-ads-perio-szajoblogeto"
   },
   {
     "id": "87.0",
@@ -2172,7 +2172,7 @@
     "price": 4550,
     "inStock": true,
     "totalStock": 9,
-    "slug": "curasept-klórhexidin-tartalmú-szájöblögető-0-05-chx"
+    "slug": "curasept-klorhexidin-tartalmu-szajoblogeto-0-05-chx"
   },
   {
     "id": "88.0",
@@ -2197,7 +2197,7 @@
     "price": 4350,
     "inStock": true,
     "totalStock": 8,
-    "slug": "curasept-klórhexidin-tartalmú-szájöblögető-0-12-chx"
+    "slug": "curasept-klorhexidin-tartalmu-szajoblogeto-0-12-chx"
   },
   {
     "id": "89.0",
@@ -2222,6 +2222,6 @@
     "price": 4550,
     "inStock": true,
     "totalStock": 7,
-    "slug": "curasept-klórhexidin-tartalmú-szájöblögető-0-20-chx"
+    "slug": "curasept-klorhexidin-tartalmu-szajoblogeto-0-20-chx"
   }
 ]

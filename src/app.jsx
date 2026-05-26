@@ -3,7 +3,8 @@ const { useState: useStateA, useEffect: useEffectA, useMemo: useMemoA, useCallba
 
 // Simple hash router
 const parseRoute = () => {
-  const hash = window.location.hash.replace(/^#/, '') || '/';
+  let hash = window.location.hash.replace(/^#/, '') || '/';
+  try { hash = decodeURIComponent(hash); } catch (e) {}
   const parts = hash.split('/').filter(Boolean);
   let path = '/' + parts.join('/');
   let param = null;
